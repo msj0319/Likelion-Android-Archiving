@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 멋쟁이사자처럼 7기 안드로이드팀* 
 
 ## 과제 제출 법
@@ -29,3 +30,11 @@ Android 생명 주기
 
 - onDestroy() - 액티비티가 소멸될 때 호출. 
 -- 모든 리소스를 해제.
+=======
+# Likelion-Android-Archiving
+
+멋쟁이사자처럼 7기 안드로이드팀 아카이빙용 
+
+과제로 제출한 요약글 찾아보기 : branch를 master에서 Summay로 바꿔주면 README에 올려뒀어요!
+[https://github.com/YuChocopie/Likelion-Android-Archiving/tree/Summary]
+>>>>>>> 2c96c2505973f355ad78728f1b72c724461db125
